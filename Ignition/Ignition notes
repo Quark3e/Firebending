@@ -1,0 +1,9 @@
+Ignition notes:
+- All could be achieved with a button and a solenoid "actuator"
+  instead of a damn servo motor and an arduino.
+- Might use nano in v1.1.
+
+Log:
+051020: Ignition v1 finished.
+061020: Extremely bulky. Messed up big time with the
+estimation of size.

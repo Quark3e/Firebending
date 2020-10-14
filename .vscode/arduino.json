@@ -1,0 +1,6 @@
+{
+    "port": "COM6",
+    "board": "arduino:avr:uno",
+    "programmer": "AVR ISP",
+    "sketch": "Ignition\\Ignition.ino"
+}

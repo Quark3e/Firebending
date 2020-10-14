@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "\\eduad.stockholm.se\\dfsroot\\stu\\home9\\aa82637\\Documents\\Arduino\\libraries\\arduino_113723\\src",
+                "C:\\Users\\erikg\\Documents\\Arduino\\libraries\\EduIntro\\src",
+                "C:\\Users\\erikg\\Documents\\Arduino\\libraries\\Servo\\src",
+                "\\eduad.stockholm.se\\dfsroot\\stu\\home9\\aa82637\\Documents\\Arduino\\libraries\\Adafruit_NeoPixel",
+                "\\eduad.stockholm.se\\dfsroot\\stu\\home9\\aa82637\\Documents\\Arduino\\libraries\\Adafruit_LIS3DH",
+                "\\eduad.stockholm.se\\dfsroot\\stu\\home9\\aa82637\\Documents\\Arduino\\libraries\\Adafruit_Unified_Sensor",
+                "C:\\Users\\erikg\\Documents\\Arduino\\libraries\\Adafruit_ADXL345",
+                "C:\\Users\\erikg\\Documents\\Arduino\\libraries\\Adafruit_NeoPixel",
+                "C:\\Program Files (x86)\\Arduino\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
+                "C:\\Users\\aa82637\\Desktop\\dokument\\arduino-1.8.13-windows\\arduino-1.8.13\\hardware\\arduino\\avr\\**",
+                "C:\\Users\\aa82637\\Desktop\\dokument\\arduino-1.8.13-windows\\arduino-1.8.13\\tools\\**"
+            ],
+            "forcedInclude": [
+                "C:\\Users\\aa82637\\Desktop\\dokument\\arduino-1.8.13-windows\\arduino-1.8.13\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
