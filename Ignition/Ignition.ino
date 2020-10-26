@@ -90,6 +90,7 @@ void loop()
   }
 
   void FireButton(int buttonIgniter) {
+    Serial.println("Button detected");
     int buttonValue = digitalRead(buttonPin);
     for (pos = 92; pos <= 10; pos +=1) {
       myservo.write(pos);
