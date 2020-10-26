@@ -46,6 +46,8 @@ void loop()
         delay(500);
   
         digitalWrite(led1, HIGH);
+        
+        Serial.println("finger snap detected");
 
         for (pos = 92; pos <= 130; pos+=1) { //92 degrees is the home position of the servo (for me atleast)
         myservo.write(pos);
